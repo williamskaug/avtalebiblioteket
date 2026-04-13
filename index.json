@@ -1,7 +1,120 @@
 {
-  "generated": "2026-04-13T17:32:19.691Z",
-  "count": 1,
+  "generated": "2026-04-13T17:41:14.822Z",
+  "count": 6,
   "clauses": [
+    {
+      "id": "commercial/force-majeure",
+      "title": "Force majeure-klausul",
+      "category": "commercial",
+      "tags": [
+        "force-majeure",
+        "ekstraordinære-hendelser",
+        "kontrollansvar",
+        "pandemi",
+        "kjøpsloven-27"
+      ],
+      "summary": "En force majeure-klausul fritar en part fra ansvar for mislighold når oppfyllelse hindres av ekstraordinære forhold utenfor partens kontroll — krig, naturkatastrofer, pandemier, myndighetsinngrep og l",
+      "legal_basis": [
+        "Kjøpsloven § 27",
+        "Kjøpsloven § 40",
+        "Avtaleloven § 36"
+      ],
+      "source": "original",
+      "reviewed_by": null,
+      "last_updated": "2026-04-13T00:00:00.000Z",
+      "path": "clauses/commercial/force-majeure.md"
+    },
+    {
+      "id": "commercial/limitation-of-liability",
+      "title": "Ansvarsbegrensning",
+      "category": "commercial",
+      "tags": [
+        "ansvar",
+        "erstatning",
+        "b2b",
+        "indirekte-tap",
+        "avtaleloven-36"
+      ],
+      "summary": "En ansvarsbegrensning setter et tak på hvor mye en part kan bli erstatningsansvarlig for under avtalen. Klausulen har to hoveddeler: et **beløpsmessig tak** (typisk knyttet til kontraktsverdien) og en",
+      "legal_basis": [
+        "Kjøpsloven § 40",
+        "Kjøpsloven § 67",
+        "Avtaleloven § 36"
+      ],
+      "source": "original",
+      "reviewed_by": null,
+      "last_updated": "2026-04-13T00:00:00.000Z",
+      "path": "clauses/commercial/limitation-of-liability.md"
+    },
+    {
+      "id": "confidentiality/mutual-nda",
+      "title": "Gjensidig fortrolighetsavtale",
+      "category": "confidentiality",
+      "tags": [
+        "nda",
+        "taushetsplikt",
+        "forretningshemmeligheter",
+        "gjensidig",
+        "due-diligence"
+      ],
+      "summary": "En gjensidig fortrolighetsavtale (mutual NDA) er en avtale der **begge** parter utveksler konfidensiell informasjon og forplikter seg til å beskytte den andre partens opplysninger. Til forskjell fra e",
+      "legal_basis": [
+        "Forretningshemmelighetsloven § 2",
+        "Forretningshemmelighetsloven § 3",
+        "Markedsføringsloven § 28",
+        "Markedsføringsloven § 29"
+      ],
+      "source": "original",
+      "reviewed_by": null,
+      "last_updated": "2026-04-13T00:00:00.000Z",
+      "path": "clauses/confidentiality/mutual-nda.md"
+    },
+    {
+      "id": "confidentiality/unilateral-nda",
+      "title": "Ensidig fortrolighetsavtale",
+      "category": "confidentiality",
+      "tags": [
+        "nda",
+        "taushetsplikt",
+        "forretningshemmeligheter",
+        "ensidig",
+        "investor",
+        "konsulent"
+      ],
+      "summary": "En ensidig fortrolighetsavtale (unilateral NDA, eller «one-way NDA») er en avtale der bare **én** part deler konfidensiell informasjon, og bare mottakeren har taushetsplikt. Pliktene er asymmetriske: ",
+      "legal_basis": [
+        "Forretningshemmelighetsloven § 2",
+        "Forretningshemmelighetsloven § 3",
+        "Markedsføringsloven § 28",
+        "Markedsføringsloven § 29"
+      ],
+      "source": "original",
+      "reviewed_by": null,
+      "last_updated": "2026-04-13T00:00:00.000Z",
+      "path": "clauses/confidentiality/unilateral-nda.md"
+    },
+    {
+      "id": "employment/customer-restriction",
+      "title": "Kundeklausul",
+      "category": "employment",
+      "tags": [
+        "kundeklausul",
+        "arbeidsmiljøloven",
+        "14a-4",
+        "oppsigelse",
+        "kunderelasjoner"
+      ],
+      "summary": "En kundeklausul hindrer en tidligere ansatt fra å kontakte eller betjene arbeidsgivers kunder i en periode etter at arbeidsforholdet er avsluttet. Til forskjell fra en konkurranseklausul — som forbyr ",
+      "legal_basis": [
+        "Arbeidsmiljøloven § 14A-1",
+        "Arbeidsmiljøloven § 14A-2",
+        "Arbeidsmiljøloven § 14A-4"
+      ],
+      "source": "original",
+      "reviewed_by": null,
+      "last_updated": "2026-04-13T00:00:00.000Z",
+      "path": "clauses/employment/customer-restriction.md"
+    },
     {
       "id": "employment/non-compete",
       "title": "Konkurranseklausul",
