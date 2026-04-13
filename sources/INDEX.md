@@ -91,3 +91,39 @@ Stiftelsestilsynet publiserer maler for opprettelse av stiftelser.
 ### Ikke tilgjengelig
 
 - `eksempel-oppretting-av-stiftelse-nb.pdf` — tidligere tilgjengelig på `https://lottstift.no/content/uploads/2021/07/eksempel-oppretting-av-stiftelse-nb.pdf`, men returnerer nå 404 (verifisert 2026-04-13). Lottstift har restrukturert uploads-katalogen fra `content/uploads/` til `app/uploads/`, og denne spesifikke filen ser ikke ut til å være migrert. `Eksempel-vedtekter-i-stiftelse-med-et-annet-organ-nb.pdf` er tatt med som nærmeste tilgjengelige erstatning.
+
+## Startuplab
+
+Startuplab er Norges største inkubator, og publiserer flere maler som er blitt de facto standard i det norske oppstartsmiljøet — særlig **SLIP** (Startuplab Investment Paper), som er den mest brukte malen for tidlig-fase egenkapitalemisjoner i Norge.
+
+> **Lisens:** Startuplabs ressursside har ingen eksplisitt lisens — kun en ansvarsfraskrivelse. Malene er derfor **lenket** til originalene her, ikke speilet inn i repoet. Sjekk alltid originalkilden for oppdaterte versjoner og vilkår.
+
+Kilde: https://www.startuplab.no/resources
+
+### Investering
+
+| Dokument | Beskrivelse | URL |
+|----------|-------------|-----|
+| SLIP v 2.0 (pre-money) | Startuplab Investment Paper — standard emisjonsdokument med pre-money verdsettelse | https://docs.google.com/document/d/1tMrQFrzwV25EcfhwpFu0bLLZ296yO-CF |
+| SLIP v 2.0 med utvanningsbeskyttelse | SLIP-variant med bestemmelser om anti-dilution | https://docs.google.com/document/d/1N8Eaj8xQFfvj7Bhfys_47O423DUR0GTJ |
+| Term Sheet | Intensjonsavtale med sentrale investeringsvilkår | https://docs.google.com/document/d/0Bz9cKw1bMhm-aUNDdmRpaVZ6OEk/edit?usp=sharing&ouid=115116883718670799353&resourcekey=0-5VVvq1qAeqdI6bUgw1ll5A&rtpof=true&sd=true |
+
+### Selskapsdokumenter
+
+| Dokument | Beskrivelse | URL |
+|----------|-------------|-----|
+| Shareholder Agreement | Mal for aksjonæravtale | https://docs.google.com/document/d/1P7OaELlsetJE5_ZgOQ_fJOfK1npAWsvh/edit?usp=sharing&ouid=115116883718670799353&rtpof=true&sd=true |
+| NDA | Mal for fortrolighetsavtale (non-disclosure agreement) | https://docs.google.com/document/d/0Bz9cKw1bMhm-RTBCSENaS1ZFbDg/edit?usp=sharing&ouid=115116883718670799353&resourcekey=0-x-6uvOQ6H79qJU7lo8R0kA&rtpof=true&sd=true |
+
+### Arbeidsforhold
+
+| Dokument | Beskrivelse | URL |
+|----------|-------------|-----|
+| Employment Agreement (Regular Employees) | Standard arbeidsavtale for ordinære ansatte | https://drive.google.com/file/d/1RQtV1xbTyQaeTS-bzoHayFwLImaf6tfH/view?usp=sharing |
+| Employment Agreement (Senior Managers/Executives) | Arbeidsavtale for ledere og nøkkelpersoner | https://drive.google.com/file/d/1RNaYyUP8hVNcotgeyFP2dGFrOTlH-bl_/view?usp=sharing |
+
+### Annet
+
+| Dokument | Beskrivelse | URL |
+|----------|-------------|-----|
+| Tax Deduction Request | Dokumentasjon for fradragsrett ved investering (skatteinsentiv for investorer) | https://drive.google.com/file/d/1HcLlLAYScHttQbmeHjUt1Bfx_mUi66up/view |
