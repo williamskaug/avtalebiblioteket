@@ -1,0 +1,37 @@
+{
+  "name": "avtalebiblioteket",
+  "version": "0.1.0",
+  "description": "Norske kontraktsklausuler — forklart på vanlig norsk",
+  "type": "module",
+  "license": "SEE LICENSE FILES",
+  "author": "William Skaug",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/williamskaug/avtalebiblioteket"
+  },
+  "bin": {
+    "avtalebiblioteket-mcp": "./dist/mcp/index.js"
+  },
+  "files": [
+    "dist/",
+    "clauses/",
+    "index.json"
+  ],
+  "scripts": {
+    "build": "npm run build:index && npm run build:mcp",
+    "build:index": "tsx scripts/build-index.ts",
+    "build:mcp": "tsc -p tsconfig.json",
+    "validate": "tsx scripts/validate.ts",
+    "dev:mcp": "tsx mcp/index.ts",
+    "prepublishOnly": "npm run build"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "gray-matter": "^4.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.5.0"
+  }
+}

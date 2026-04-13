@@ -1,0 +1,28 @@
+{
+  "generated": "2026-04-13T17:32:19.691Z",
+  "count": 1,
+  "clauses": [
+    {
+      "id": "employment/non-compete",
+      "title": "Konkurranseklausul",
+      "category": "employment",
+      "tags": [
+        "konkurranseforbud",
+        "arbeidsmiljøloven",
+        "oppsigelse",
+        "karenstid",
+        "kompensasjon"
+      ],
+      "summary": "En konkurranseklausul hindrer en ansatt fra å jobbe hos en konkurrent i en avtalt periode etter at arbeidsforholdet er avsluttet. Arbeidsgiver må betale kompensasjon for hele perioden klausulen gjelde",
+      "legal_basis": [
+        "Arbeidsmiljøloven § 14A-1",
+        "Arbeidsmiljøloven § 14A-2",
+        "Arbeidsmiljøloven § 14A-3"
+      ],
+      "source": "original",
+      "reviewed_by": null,
+      "last_updated": "2026-04-13T00:00:00.000Z",
+      "path": "clauses/employment/non-compete.md"
+    }
+  ]
+}
